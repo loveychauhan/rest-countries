@@ -11,9 +11,9 @@
   "description": "",
   "dependencies": {
     "@parcel/transformer-react-refresh-wrap": "^2.13.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router-dom": "^7.4.0"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2"
   },
   "devDependencies": {
     "parcel": "^2.13.3",

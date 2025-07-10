@@ -1,6 +1,6 @@
-import React, { useContext, useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import '../country.css'
-import { data, Link, useLocation, useOutletContext, useParams } from 'react-router-dom'
+import {  Link, useLocation, useParams } from 'react-router-dom'
 import SingleCountryShimmer from './singleCountryShimmer';
 import { useTheme } from "../hooks/useTheme";
 

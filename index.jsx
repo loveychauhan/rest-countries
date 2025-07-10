@@ -4,7 +4,6 @@ import App from './App.jsx'
 import Home from './Components/Home.jsx';
 import Error from './Components/Error.jsx';
 import CountryDetail from './Components/CountryDetail.jsx';
-import Contact from './Components/contact.jsx';
 
 export default function Main() {
     return (
@@ -13,7 +12,6 @@ export default function Main() {
                 <Route path='/' element={<App />}  >
                     <Route index element={<Home />} />
                     <Route path='/:country' element={<CountryDetail />} />
-                    {/* <Route path='/:contact' element={<Contact />} /> */}
                 </Route>
                 <Route element={<Error />}>
                     <Route path='*' element={<Error />} />
