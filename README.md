@@ -4,7 +4,8 @@ An elegant and responsive React app that displays country data using the [REST C
 
 
 
-<a href="./restcountriesite.netlify.app" blank="_">Live Demo</a>
+<a href="https://restcountriesite.netlify.app" target="_blank">Live Demo</a>
+
 
 ## ✨ Features
 
