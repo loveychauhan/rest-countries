@@ -3,7 +3,7 @@
 An elegant and responsive React app that displays country data using the [REST Countries API](https://restcountries.com/). Browse, search, and explore global information with smooth UI transitions and dynamic routing.
 
 
-[LIVE DEMO](restcountriesite.netlify.app)
+[LIVE DEMO] => restcountriesite.netlify.app
 
 ## ✨ Features
 
